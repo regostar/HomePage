@@ -1,0 +1,101 @@
+
+*{
+	padding: 0px;
+	margin:0px;
+}
+
+.nav
+{
+	
+  font-size: 11px;
+  font-weight: bold;
+  padding:0px;
+  text-transform: uppercase;
+  color:white;
+  background-color: #252424;
+}
+
+.nav input
+ {
+ 	margin-top:15px;
+ 	border-radius: 5px;
+ 	border-color: white;
+ 	width: 180px;
+ 	height:25px;
+ }
+
+
+
+#form_text
+{
+	position: relative;
+	font:16px bold takoma;
+	padding-right:15px;
+	top:2px;
+}
+#Login
+{
+  font:16px bold takoma;
+  position: relative;
+  top:15px;
+  text-decoration: underline;
+}
+#forgot
+{
+	position:relative;
+	top:18px;
+	font: bold takoma;
+	
+}
+#forgot a
+{
+	color:white;
+}
+
+#forgot a:hover
+{
+	text-decoration: none;
+}
+
+.form input
+ {
+ 	margin-top:55px;
+ 	border-radius: 5px;
+ 	border:1px solid #00a3cc;
+ 	width: 300px;
+ 	height:25px;
+ }
+
+ #form_text1
+{
+	position: relative;
+	font:19px bold takoma;
+	padding-right:15px;
+	top:2px;
+}
+/*.text-center:nth-of-type(3) {
+   position:relative;
+   right:12px;
+ }*/
+
+ .form input[type=submit]
+ {
+ 	background-color: #00a3cc;
+ 	 position:relative;
+     /*left:3px;*/
+ }
+
+.bottom_part
+{
+  background-color: #252424;
+  padding: 7px
+}
+
+#footer_text a
+{
+	font :18px takoma;
+	color:white;
+	text-decoration: none
+}
+
+
